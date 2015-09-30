@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stephen/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/stephen/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-2dbcb4179d37071275f1477873ff2a85871a880d.jar" />
+    </item>
+    <item
+        jar="/Users/stephen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/stephen/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-e8634fa66725f7a5ae7709a951867a5eafac8438.jar" />
+    </item>
+    <item
+        jar="/Users/stephen/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/stephen/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/classes-8938d1fafd416da53df19d1277e570578312904c.jar" />
+    </item>
+    <item
+        jar="/Users/stephen/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/stephen/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/classes-a0cab752be0a1889043123aef1a5d0f29b4c23af.jar" />
+    </item>
+
+</items>
